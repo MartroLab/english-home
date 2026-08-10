@@ -25,3 +25,7 @@ Sube todo el contenido de esta carpeta a un repositorio de GitHub y activa GitHu
 - CTA profesional sin imágenes repetitivas.
 
 - Versión actualizada únicamente en español; se eliminó el selector de idioma.
+
+
+## Logo actualizado
+El encabezado utiliza `assets/english-home-symbol.png`, con fondo transparente para integrarse directamente al fondo del sitio.
